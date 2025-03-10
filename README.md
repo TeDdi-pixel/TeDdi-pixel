@@ -1,3 +1,2 @@
-[![TeDdi-pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeDdi-pixel)](https://github.com/TeDdi-pixel/TeDdi-pixel)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TeDdi-pixel&show_icons=true&locale=en&layout=compact" alt="TeDdi-pixel" /></p>
 
