@@ -1,3 +1,4 @@
-<a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+<p>
+  <img align="center" src="github-readme-stats-sable-gamma.vercel.app/api/top-langs?username=TeDdi-pixel&show_icons=true&locale=en&layout=compact&text_color=9d4c74&title_color=9d4c74&bg_color=f3d1cf&border_color=a891c5" 
+alt="TeDdi-pixel" />
+</p>
