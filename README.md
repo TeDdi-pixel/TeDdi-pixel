@@ -93,4 +93,4 @@
   </tr> 
 </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TeDdi-pixel&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TeDdi-pixel&theme=dark&hide_border=true&mode=weekly)<br/>
